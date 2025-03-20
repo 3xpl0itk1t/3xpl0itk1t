@@ -35,18 +35,17 @@ Enthusiastic backend developer with a strong desire to learn and grow in the fie
 
 <div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo"  width="40" height="40"/>&nbsp;
- <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_64x64.png" alt="C"  width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png"  title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
- <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/php/php_64x64.png"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"  title="GO" alt="GO" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=golang)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 </div>
 <p>
 
