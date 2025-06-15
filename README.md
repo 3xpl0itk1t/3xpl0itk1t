@@ -13,7 +13,7 @@
 
 <div>
 
-<img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&acount_private=true&include_all_commits=true&theme=dark" />
 <space>
 <img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api/top-langs/?username=3xpl0itk1t&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 
