@@ -8,18 +8,18 @@
 
 - I'm a backend developer from India, I love writing clean and consistent code
 - 💬 Talk to me about **Backend Development** and **Music**
-- 📫 Reach out to me: [email](prabhavmishra7@gmail.com)
+- 📫 Reach out to me: [email](mailto:prabhavmishra7@gmail.com)
 </div>
 
 <div>
 
-<img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&acount_private=true&include_all_commits=true&theme=dark" />
-<space>
-<img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api/top-langs/?username=3xpl0itk1t&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+<!-- <img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&acount_private=true&include_all_commits=true&theme=dark" /> -->
+<!-- <space> -->
+<!-- <img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api/top-langs/?username=3xpl0itk1t&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/> -->
 
-</div>
+<!-- </div> -->
 
-<div>
+<!-- <div> -->
 
 </br>
 
