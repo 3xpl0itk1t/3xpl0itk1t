@@ -1,17 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+<!--
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=D9BED1&lines=Hi+There!+👋;+I'm+Prabhav!;Backend+Developer+🚀;Clean+Code+Enthusiast+💻;" alt="Typing SVG"/>
+</h1>
+-->
 
-<samp>&gt; Hi there, I'm <a href="http://prabhav.me/" target="_blank">Prabhav Mishra</a> </samp>
+<samp>&gt; Hey there! I'm <a href="http://prabhav.me/" target="_blank">Prabhav Mishra</a></samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prxbhav/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/prxbhav)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@3xpl0itk1t)
 
-- I'm a backend developer from India, I love writing clean and consistent code
-- 💬 Talk to me about **Backend Development** and **Music**
-- 📫 Reach out to me: [email](mailto:prabhavmishra7@gmail.com)
-</div>
+- 🧑‍💻 Backend developer from India with a passion for code that's as clean as my playlist.
+- 💬 Always up for a chat about **Backend Development** or what’s currently stuck in my headphones.
+- 📫 Drop me a line: [email](mailto:prabhavmishra7@gmail.com)
 
-<!-- 
+<!--
 ```javascript
 const prabhav = {
     location: "India",
@@ -22,20 +26,10 @@ const prabhav = {
 };
 ```
 -->
-<div>
-
-<!-- <img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&acount_private=true&include_all_commits=true&theme=dark" /> -->
-<!-- <space> -->
-<!-- <img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api/top-langs/?username=3xpl0itk1t&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/> -->
-
-<!-- </div> -->
-
-<!-- <div> -->
 
 ---
 
-#### My current Tech Stack : &nbsp;
-<div>
+#### My Current Tech Stack
 
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=golang)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
@@ -48,8 +42,4 @@ const prabhav = {
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-</div>
-<p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-</p>
-</br>
