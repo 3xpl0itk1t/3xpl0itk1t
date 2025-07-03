@@ -11,6 +11,17 @@
 - 📫 Reach out to me: [email](mailto:prabhavmishra7@gmail.com)
 </div>
 
+<!-- 
+```javascript
+const prabhav = {
+    location: "India",
+    role: "Backend Developer",
+    askMeAbout: ["Backend Development", "System Design", "Music"],
+    currentFocus: "Building Swish",
+    funFact: "I debug with music 🎵"
+};
+```
+-->
 <div>
 
 <!-- <img height="180em" src="https://github-readme-stats-3xpl0itk1ts-projects.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&acount_private=true&include_all_commits=true&theme=dark" /> -->
