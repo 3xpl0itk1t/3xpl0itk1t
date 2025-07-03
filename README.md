@@ -32,9 +32,9 @@ const prabhav = {
 
 <!-- <div> -->
 
-</br>
+---
 
-### My current Tech Stack : &nbsp;
+#### My current Tech Stack : &nbsp;
 <div>
 
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=golang)
