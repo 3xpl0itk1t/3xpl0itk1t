@@ -5,7 +5,7 @@
 </h1>
 -->
 
-<samp>&gt; Hey there! I'm <a href="http://prabhav.me/" target="_blank">Prabhav Mishra</a></samp>
+<samp>&gt; Hey there! </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prxbhav/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/prxbhav)
@@ -13,7 +13,7 @@
 
 - 🧑‍💻 Backend developer from India with a passion for code that's as clean as my playlist.
 - 💬 Always up for a chat about **Backend Development** or what’s currently stuck in my headphones.
-- 📫 Drop me a line: [email](mailto:prabhavmishra7@gmail.com)
+- 📫 Reach me out: [email](mailto:prabhavmishra7@gmail.com)
 
 <!--
 ```javascript
