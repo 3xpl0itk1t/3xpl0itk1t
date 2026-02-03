@@ -13,7 +13,7 @@
 
 - 🧑‍💻 Backend developer from India with a passion for code that's as clean as my playlist.
 - 💬 Always up for a chat about **Backend Development** or what’s currently stuck in my headphones.
-- 📫 Reach me out: [email](mailto:prabhavmishra7@gmail.com)
+- 📫 Reach out to me: [email](mailto:prabhavmishra7@gmail.com)
 
 <!--
 ```javascript
