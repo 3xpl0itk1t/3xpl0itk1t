@@ -15,6 +15,12 @@
 - 💬 Always up for a chat about **Backend Development** or what’s currently stuck in my headphones.
 - 📫 Reach out to me: [email](mailto:prabhavmishra7@gmail.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3xpl0itk1t/3xpl0itk1t/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3xpl0itk1t/3xpl0itk1t/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/3xpl0itk1t/3xpl0itk1t/output/snake-dark.svg" width="800" />
+</picture>
+
 <!--
 ```javascript
 const prabhav = {
