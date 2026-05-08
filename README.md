@@ -15,6 +15,13 @@
 - 💬 Always up for a chat about **Backend Development** or what’s currently stuck in my headphones.
 - 📫 Reach out to me: [email](mailto:prabhavmishra7@gmail.com)
 
+<a href="https://github.com/3xpl0itk1t">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3xpl0itk1t/3xpl0itk1t/main/dark_mode.svg">
+    <img alt="Prabhav's GitHub Profile README" src="https://raw.githubusercontent.com/3xpl0itk1t/3xpl0itk1t/main/light_mode.svg">
+  </picture>
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3xpl0itk1t/3xpl0itk1t/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3xpl0itk1t/3xpl0itk1t/output/snake.svg" />
@@ -60,5 +67,9 @@ const prabhav = {
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+#### Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
